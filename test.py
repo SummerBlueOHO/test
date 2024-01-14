@@ -1,3 +1,3 @@
 print("Hello word")
-
-print("HI")
+a=1
+b=1
